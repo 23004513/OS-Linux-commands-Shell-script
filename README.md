@@ -20,7 +20,9 @@ Execute the following commands
 
 Testing the commands for the desired output. 
 
-# COMMANDS:
+# COMMANDS:    
+DEVELOPED BY:P.SANJAY ASHWIN      
+REG.NO:212223040181          
 ### Create the following files file1, file2 as follows:
 cat > file1
 ```
@@ -1140,7 +1142,13 @@ else
 fi
 ```
 ## OUTPUT 
-
-
+```
+Enter the number
+121
+Number is palindrome
+Enter the number
+69
+Number is NOT palindrome
+```
 # RESULT:
 The Commands are executed successfully.
